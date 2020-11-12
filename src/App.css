@@ -1,3 +1,16 @@
+.main{
+  text-align: center;
+  height: 500px;
+}
+.nightlight{
+  background-color:lightgray;
+}
+.daylight{
+  background-color: yellow;
+}
+
+
+
 .App {
   text-align: center;
 }
